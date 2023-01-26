@@ -29,6 +29,7 @@ log/
 ######################
 .DS_Store
 .DS_Store?
+**/.DS_Store
 ehthumbs.db
 Icon?
 Thumbs.db
@@ -38,3 +39,7 @@ Thumbs.db
 .svn
 .svn/
 CVS
+
+# ipynb #
+##########
+.ipynb_checkpoints
