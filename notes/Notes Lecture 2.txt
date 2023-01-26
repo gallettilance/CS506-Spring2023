@@ -41,7 +41,7 @@ ________________________________________________________________________________
 2. Clone the repo locally
 3. Make changes
 4. Push changes
-5. Create new pull request from the parent repo
+5. Create new pull request from the child repo
 
  * Reviews can be added from the parent repo to the PR.
  * Squash and merge -> to squash the commit chain, and merge the PR. 
