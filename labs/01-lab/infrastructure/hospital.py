@@ -1,3 +1,3 @@
 def draw_hospital():
-    print("hospital not found")
+    print("Hospital built by Kuangfei Long.")
     return
