@@ -1,3 +1,3 @@
 def draw_school():
-    print("school not found")
+    print("Camden Central High School")
     return
