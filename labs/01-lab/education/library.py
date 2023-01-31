@@ -1,3 +1,11 @@
 def draw_library():
-    print("library not found")
+    print('-----------------------------------------')
+    print('|                                       |')
+    print('|       BU Mugar Memorial Library       |')
+    print('|                                       |')
+    print('|                                       |')
+    print('|                                       |')
+    print('|                                       |')
+    print('|                                       |')
+    print('-----------------------------------------')
     return
