@@ -36,7 +36,7 @@ We will then merge the PRs and print our city!
 
 - [ ] [Fork](https://help.github.com/en/articles/fork-a-repo) this repository
 - [ ] [Clone](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html#clone-a-repository) **your fork** locally
-- [ ] [Add a remote](https://help.github.com/en/articles/adding-a-remote) called `upstream` pointing to this repo (`https://github.com/gallettilance/CS506-Spring2022` or `git@github.com:gallettilance/CS506-Spring2022.git`)
+- [ ] [Add a remote](https://help.github.com/en/articles/adding-a-remote) called `upstream` pointing to this repo (`https://github.com/gallettilance/CS506-Spring2023.git` or `git@github.com:gallettilance/CS506-Spring2023.git`)
 - [ ] [Create](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html#create-a-new-branch) and checkout a branch named after the component you are working on
 - [ ] Implement your component by editing the relevant file(s)
 - [ ] [Add](https://help.github.com/en/articles/adding-a-file-to-a-repository-using-the-command-line) and [Commit](https://help.github.com/en/articles/adding-a-file-to-a-repository-using-the-command-line) your changes
