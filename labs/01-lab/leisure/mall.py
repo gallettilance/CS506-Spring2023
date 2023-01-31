@@ -1,3 +1,3 @@
 def draw_mall():
-    print("mall not found")
+    print("mall found")
     return
