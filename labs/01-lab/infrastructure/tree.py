@@ -1,3 +1,4 @@
 def draw_tree():
-    print("tree not found")
+    print("^ ^ ^ ^ ^ ^ ^")
+    print("| | | | | | |")
     return
