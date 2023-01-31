@@ -1,3 +1,11 @@
+""" ASCII school art source: https://ascii.co.uk/art/school """
 def draw_library():
-    print("library not found")
+    print("""
+           .
+          /_\               
+          |Q|               
+    .-----' '-----.                                
+   /___[LIBRARY]___\                               
+    | [] .-.-. [] |                                
+  ..|____|_|_|____|..""")
     return
