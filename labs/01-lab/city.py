@@ -8,9 +8,10 @@ def draw_city():
     tree.draw_tree()
     draw_education()
     road.draw_road()
-    draw_leisure()
+    draw_leisure()=le
     road.draw_road()
     hospital.draw_hospital()
     return
 
 draw_city()
+
