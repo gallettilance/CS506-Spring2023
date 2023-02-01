@@ -1,3 +1,6 @@
 def draw_school():
-    print("school not found")
+    for i in range(4):
+        for j in range(6):
+            print('*', end = '  ')
+        print()
     return
