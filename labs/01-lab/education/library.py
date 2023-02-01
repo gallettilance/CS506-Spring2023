@@ -1,3 +1,12 @@
 def draw_library():
-    print("library not found")
+    print(""" 
+               _
+              / \ 
+           ___| |___
+          /         \ 
+         /___________\ 
+          | LIBRARY |
+          |_________|    
+    
+    """)
     return
