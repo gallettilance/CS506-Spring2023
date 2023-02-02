@@ -1,0 +1,58 @@
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 25th January 2023 - Lecture 2 Notes🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+_____________________________________________________________________________________________
+
+## Git -> Version control system.
+## Github -> Hosts Git.
+_____________________________________________________________________________________________
+
+## Adding SSH Keys to github account 
+    -> Can be used to connect github account to laptop conveniently.
+
+1. in terminal: ssh-keygen
+2. On generating keys, copy the public key.
+3. Paste this public key to Github SSH Keys.
+   (Navigate from settings -> SSH & GPG Keys)
+4. Save the SSH Key.
+_____________________________________________________________________________________________
+
+## Useful git commands
+
+1. git init (initialize a repo)
+2. git add (. for all files, filename for single file)
+3. git status (retrieve the status of current updates to be made)
+4. git log (view history of commits with commit ids)
+5. git remote add origin `origin link` (create new remote named origin with the origin link)
+6. git remote -v (enlist all remotes)
+7. git push origin master (push committed changes to origin)
+8. git checkout -b branch-name (create new branch from current branch )
+_____________________________________________________________________________________________
+
+## Homework 1
+post to github classroom + add to gradescope
+_____________________________________________________________________________________________
+
+## Iterating on different versions
+    -> Can branch out
+    -> Merge branches (conflicts should be resolved)
+_____________________________________________________________________________________________
+
+## Collaboration
+1. Fork from parent repo
+2. Clone the repo locally
+3. Make changes
+4. Push changes
+5. Create new pull request from the child repo
+
+ * Reviews can be added from the parent repo to the PR.
+ * Squash and merge -> to squash the commit chain, and merge the PR. 
+
+ * rebase -> changing the base of a branch to the head of another branch
+
+ * git push origin main -f -> to force changes and overwrite to version history
+
+ * repos forked from each other can be thought of as branches
+_____________________________________________________________________________________________
+
+## Best practices
+    -> Never commit to main branch. Create a new branch from main. 
+_____________________________________________________________________________________________
