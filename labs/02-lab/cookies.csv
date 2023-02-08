@@ -1,5 +1,5 @@
 cookie,ingredients,calories,radius,cost_to_make
-laddoo lemon,"[""flour"",""lemon juice"",""sugar"",""ghee""]",170,3.102,0.67
+laddoo lemon,"[""flour"",""lemon juice"",""sugar"",""ghee""]",170,3.102,nan
 nevadito,"[""flour"",""chocolate chips"",""milk"",""vanilla extract""]",224,4.069,1.04
 red velvet rauw,"[""flour"",""cocoa powder"",""butter"",""red food coloring""]",198,3.78,1.07
 bad berry bunny,"[""flour"",""blueberries"",""sugar"",""butter""]",191,4.148,1.39
@@ -47,7 +47,7 @@ bad berry bunny,"[""flour"",""blueberries"",""sugar"",""butter""]",184,3.974,0.7
 orange ozuna,"[""flour"",""orange juice"",""sugar"",""vegetable oil""]",159,3.462,1.01
 minty miami,"[""flour"",""mint extract"",""sugar"",""butter""]",205,4.218,0.75
 chocolate,"[""flour"",""chocolate chips"",""sugar"",""butter""]",229,4.217,1.19
-laddoo lemon,"[""flour"",""lemon juice"",""sugar"",""ghee""]",165,4.123,2.0
+laddoo lemon,"[""flour"",""lemon juice"",""sugar"",""ghee""]",165,4.123,2
 nevadito,"[""flour"",""chocolate chips"",""milk"",""vanilla extract""]",208,3.583,1.42
 red velvet rauw,"[""flour"",""cocoa powder"",""butter"",""red food coloring""]",203,4.112,0.91
 bad berry bunny,"[""flour"",""blueberries"",""sugar"",""butter""]",193,3.791,1.43
@@ -58,7 +58,7 @@ laddoo lemon,"[""flour"",""lemon juice"",""sugar"",""ghee""]",189,3.179,0.72
 nevadito,"[""flour"",""chocolate chips"",""milk"",""vanilla extract""]",211,4.205,1.19
 red velvet rauw,"[""flour"",""cocoa powder"",""butter"",""red food coloring""]",211,3.873,1.64
 bad berry bunny,"[""flour"",""blueberries"",""sugar"",""butter""]",199,3.654,0.81
-orange ozuna,"[""flour"",""orange juice"",""sugar"",""vegetable oil""]",158,4.003,1.0
+orange ozuna,"[""flour"",""orange juice"",""sugar"",""vegetable oil""]",158,4.003,1
 minty miami,"[""flour"",""mint extract"",""sugar"",""butter""]",168,3.132,0.63
 chocolate,"[""flour"",""chocolate chips"",""sugar"",""butter""]",216,3.824,1.15
 laddoo lemon,"[""flour"",""lemon juice"",""sugar"",""ghee""]",164,3.05,nan
@@ -113,7 +113,7 @@ bad berry bunny,"[""flour"",""blueberries"",""sugar"",""butter""]",177,3.95,0.67
 orange ozuna,"[""flour"",""orange juice"",""sugar"",""vegetable oil""]",153,3.794,0.6
 minty miami,"[""flour"",""mint extract"",""sugar"",""butter""]",184,3.743,0.74
 chocolate,"[""flour"",""chocolate chips"",""sugar"",""butter""]",227,4.085,1.42
-laddoo lemon,"[""flour"",""lemon juice"",""sugar"",""ghee""]",170,3.916,2.0
+laddoo lemon,"[""flour"",""lemon juice"",""sugar"",""ghee""]",170,3.916,2
 nevadito,"[""flour"",""chocolate chips"",""milk"",""vanilla extract""]",211,3.915,1.61
 red velvet rauw,"[""flour"",""cocoa powder"",""butter"",""red food coloring""]",197,3.906,1.33
 bad berry bunny,"[""flour"",""blueberries"",""sugar"",""butter""]",199,4.281,1.36
