@@ -1,3 +1,9 @@
 def draw_library():
-    print("library not found")
+    print("GSU added by Gunner")
+    print("-----*")
+    print("----***")
+    print("---*****")
+    print("--*******")
+    print("-*********")
+    print("***********")
     return
