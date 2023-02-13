@@ -1,3 +1,8 @@
 def draw_school():
-    print("school not found")
+    print("        ^         ")
+    print("      /___\       ")
+    print("======     =======")
+    print("||    school    ||")
+    print("||              ||")
+    print("==================")
     return

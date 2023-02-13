@@ -1,3 +1,5 @@
 def draw_lake():
-    print("lake not found")
+    print("--------------")
+    print("|    lake     |")
+    print("--------------")
     return
