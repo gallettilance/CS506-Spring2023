@@ -43,3 +43,7 @@ CVS
 # ipynb #
 ##########
 .ipynb_checkpoints
+
+
+##########
+hw/
