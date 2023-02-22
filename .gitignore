@@ -1,3 +1,6 @@
+# python cache
+__pycache__/
+
 # IDEA Ignores #
 ################
 *.iml
