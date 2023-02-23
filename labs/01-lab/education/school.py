@@ -1,3 +1,3 @@
 def draw_school():
-    print("school not found")
+    print("        ---\n  ---- school ----  \n-------       ------") 
     return
