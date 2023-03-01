@@ -1,3 +1,6 @@
 def draw_school():
-    print("school not found")
+    print("BU")
+    print("MIT")
+    print("NYU")
+    print("USC")
     return
