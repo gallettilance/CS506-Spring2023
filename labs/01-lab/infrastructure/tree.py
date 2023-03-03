@@ -1,3 +1,12 @@
 def draw_tree():
-    print("tree not found")
+    print("      #o#")
+    print("    ####o#")
+    print("  #o# \#|_#,#")
+    print("  ###\ |/   #o#")
+    print("  # {}{      #")     
+    print("      }{{")
+    print("     ,'  `")
+
     return
+
+draw_tree()
