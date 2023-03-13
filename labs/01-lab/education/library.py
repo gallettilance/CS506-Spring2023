@@ -1,3 +1,16 @@
 def draw_library():
-    print("library not found")
+    print("Here is the library: ")
+    print("")
+    print("                _ _.-/`-._ _")
+    print("                ;.-________-.;")
+    print("    _________n.[____________].n_________")
+    print("    |--_--_--_--||==||==||==||--_--_--_--]")
+    print("    |-----------||..||..||..||-----------|")
+    print("    |LI LI LI LI||LI||LI||LI||LI LI LI LI|")
+    print("    |.. .. .. ..||..||..||..||.. .. .. ..|")
+    print("    |LI LI LI LI||LI||LI||LI||LI LI LI LI|")
+    print(",,;;,;;;,;;;,;;;,;;;,;;;,;;;,;;,;;;,;;;,;;,,")
+    print(";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
+    print("")
+    print("hi")
     return
