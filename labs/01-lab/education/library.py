@@ -1,3 +1,5 @@
 def draw_library():
-    print("library not found")
+    print("___________________")
+    print("|LIB:I Heart Books|")
+    print("___________________")
     return

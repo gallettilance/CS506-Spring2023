@@ -1,3 +1,3 @@
 def draw_tree():
-    print("tree not found")
+    print("T")
     return

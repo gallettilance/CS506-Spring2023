@@ -1,3 +1,7 @@
 def draw_road():
-    print("road not found")
+    print("Road")
+    print("|I|")
+    print("|I|")
+    print("|I|")
+    print("|I|")
     return
