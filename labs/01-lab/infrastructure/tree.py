@@ -1,3 +1,13 @@
 def draw_tree():
-    print("tree not found")
+    print("|::::::::::::::::|")
+    print("|::::::::::::::::|")
+    print("|::::::::::::::::|")
+    print("|::::::::::::::::|")
+    print("     |||||||      ")
+    print("     |||||||      ")
+    print("     |||||||      ")
+    print("     |||||||      ")
+    print("     |||||||      ")
+    
+    
     return
