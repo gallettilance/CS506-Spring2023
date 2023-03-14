@@ -1,3 +1,6 @@
 def draw_road():
-    print("road not found")
+    print("road is found")
+    print(" / / / / / / ")
+    print("== == == == ==")
+    print("/ ` / ` / ` ")
     return
