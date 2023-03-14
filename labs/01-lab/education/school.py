@@ -1,3 +1,11 @@
+""" ASCII school art source: https://ascii.co.uk/art/school """
 def draw_school():
-    print("school not found")
+    print("""
+           .
+          /_\               
+          |Q|               
+    .-----' '-----.                                
+   /____[SCHOOL]___\                               
+    | [] .-.-. [] |                                
+  ..|____|_|_|____|..""")
     return
